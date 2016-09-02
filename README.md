@@ -1,6 +1,6 @@
-# WaringTownships
+# WarringTownships
 
-Waring Townships is a real-time strategy game in which you control your township and conquer your neighbours. 
+Warring Townships is a real-time strategy game in which you control your township and conquer your neighbours. 
 
 Your colour is blue. You start with a town, which contains the central tower and multiple military buildings. 
 
